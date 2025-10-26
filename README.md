@@ -70,4 +70,34 @@ Requirements serve as a blueprint for the design and implementation of the syste
 When requirements accurately capture real user needs and business objectives, the resulting product provides genuine value. Proper analysis ensures that usability, performance, and reliability are prioritized — leading to higher customer satisfaction and product adoption.
 
 ### 5. Minimizes Scope Creep and Project Risks
-Scope creep often happens when new features are added without proper evaluation. Requirement analysis sets clear boundaries and priorities, helping teams manage change requests in a controlled way and keeping the project focused on core goals.
+Scope creep often happens when new features are added without proper evaluation. Requirement analysis sets clear boundaries and priorities, helping teams manage change requests in a controlled way and keeping the project focused on core goalsv.
+
+
+## 🧩 Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that help ensure the final software product meets user and business expectations. Below are the five key activities typically performed during this phase:
+
+### 1. Requirement Gathering
+- Involves collecting all possible requirements from stakeholders, clients, and end users.  
+- Focuses on understanding what users need and what problems the system should solve.  
+- Techniques include interviews, surveys, brainstorming sessions, and reviewing existing documentation.
+
+### 2. Requirement Elicitation
+- Focuses on uncovering hidden, implied, or conflicting needs through deep discussions and observations.  
+- Helps clarify assumptions and identify constraints, priorities, and dependencies.  
+- Common techniques include workshops, focus groups, use case development, and prototyping.
+
+### 3. Requirement Documentation
+- Involves recording all gathered and elicited requirements in a structured and understandable format.  
+- The output is typically a **Software Requirements Specification (SRS)** document.  
+- Ensures traceability and serves as a reference point for design, development, and testing teams.
+
+### 4. Requirement Analysis and Modeling
+- Focuses on studying the documented requirements to check for completeness, consistency, and feasibility.  
+- Involves using diagrams, models, and workflows to visualize the system’s structure and behavior.  
+- Techniques include data flow diagrams (DFD), use case diagrams, and entity-relationship (ER) models.
+
+### 5. Requirement Validation
+- Ensures that the documented requirements accurately represent stakeholder needs and business objectives.  
+- Detects missing, incorrect, or conflicting requirements before development begins.  
+- Validation techniques include walkthroughs, reviews, inspections, and prototype evaluations.
