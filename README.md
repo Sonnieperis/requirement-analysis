@@ -137,3 +137,58 @@ Define **how the system should perform** — quality and performance standards.
 
 > Functional requirements describe features.  
 > Non-functional requirements ensure quality, speed, and reliability.
+
+## 🎯 Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of how different users (actors) interact with a system.  
+It helps identify **functional requirements** by showing the relationships between **actors** and **use cases** (system functions).
+
+Use Case Diagrams are widely used during **Requirement Analysis** to:
+- Visualize the system’s scope and user interactions.  
+- Clarify system behavior before development begins.  
+- Improve communication between developers, designers, and stakeholders.  
+
+---
+
+### Benefits of Use Case Diagrams
+- Provides a **clear overview** of all user interactions.
+- Helps identify **missing or redundant functionalities** early.  
+- Serves as a **blueprint** for defining system requirements.  
+- Facilitates **better collaboration** between technical and non-technical teams.  
+
+---
+
+### 🧍 Actors in the Booking System
+- **Guest/User** – Searches, views, and books properties.  
+- **Host/Property Owner** – Lists and manages property details.  
+- **Admin** – Oversees users, bookings, and overall platform operations.  
+
+---
+
+### ⚙️ Main Use Cases
+- Register / Log In  
+- Search for Properties  
+- View Property Details  
+- Book a Property  
+- Make Payment  
+- Manage Bookings  
+- List / Edit Properties  
+- Manage Users (Admin)
+
+---
+
+### 📊 Use Case Diagram
+
+Below is the Use Case Diagram representing the main interactions in the system.
+
+![Booking System Use Case Diagram](./alx-booking-uc.png)
+
+*(Diagram created using [Draw.io](https://app.diagrams.net/) and exported as **alx-booking-uc.png**)*
+
+---
+
+### Notes
+- Place the image file in your repository root or `assets/` folder.  
+- Ensure the file is named exactly `alx-booking-uc.png` so the link displays correctly in GitHub.
