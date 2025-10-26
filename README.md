@@ -192,3 +192,22 @@ Below is the Use Case Diagram representing the main interactions in the system.
 ### Notes
 - Place the image file in your repository root or `assets/` folder.  
 - Ensure the file is named exactly `alx-booking-uc.png` so the link displays correctly in GitHub.
+
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** define the specific conditions that a feature must meet to be considered complete and accepted by the client or product owner.  
+They ensure clarity between developers, testers, and stakeholders on what “done” means.
+
+### Importance
+- Prevents misunderstandings about feature expectations.  
+- Guides development and testing processes.  
+- Ensures the product meets user needs and business goals.  
+
+### Example: Checkout Feature
+**Feature:** Complete a property booking.
+
+**Acceptance Criteria:**
+- User can review booking details before payment.  
+- User can securely enter and process payment information.  
+- A confirmation message and booking ID appear after successful payment.  
+- Failed payments show an error message and allow retry.  
