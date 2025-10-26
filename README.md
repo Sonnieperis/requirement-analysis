@@ -1,4 +1,4 @@
-## ❓ What is Requirement Analysis?
+##  What is Requirement Analysis?
 
 **Requirement Analysis** is the process of collecting, clarifying, organizing, and validating the needs and constraints of stakeholders for a software system. It transforms high-level ideas and stakeholder requests into a clear set of documented, testable, and prioritized requirements that guide design, development, and testing.
 
@@ -53,7 +53,7 @@ Requirement analysis sits near the start of the Software Development Life Cycle 
 ### Practical tip
 Treat requirement analysis as an iterative, collaborative process — especially in Agile environments. Start with a minimal validated slice (MVP), deliver quickly, gather user feedback, and evolve requirements. That approach reduces risk and increases the chance of delivering real value.
 
-## 🚀 Why is Requirement Analysis Important?
+##  Why is Requirement Analysis Important?
 
 Requirement Analysis is one of the most critical phases in the Software Development Life Cycle (SDLC) because it lays the foundation for everything that follows — from design and development to testing and deployment. Without a clear understanding of what needs to be built, even the most skilled team can deliver the wrong product. Below are key reasons why Requirement Analysis is essential:
 
@@ -73,7 +73,7 @@ When requirements accurately capture real user needs and business objectives, th
 Scope creep often happens when new features are added without proper evaluation. Requirement analysis sets clear boundaries and priorities, helping teams manage change requests in a controlled way and keeping the project focused on core goalsv.
 
 
-## 🧩 Key Activities in Requirement Analysis
+##  Key Activities in Requirement Analysis
 
 Requirement Analysis involves several structured activities that help ensure the final software product meets user and business expectations. Below are the five key activities typically performed during this phase:
 
@@ -102,13 +102,13 @@ Requirement Analysis involves several structured activities that help ensure the
 - Detects missing, incorrect, or conflicting requirements before development begins.  
 - Validation techniques include walkthroughs, reviews, inspections, and prototype evaluations.
 
-## 🧱 Types of Requirements
+##  Types of Requirements
 
 Software requirements are divided into two main types: **Functional** and **Non-functional Requirements**.
 
 ---
 
-### ⚙️ Functional Requirements
+###  Functional Requirements
 
 Define **what the system should do** — the main features and behaviors.
 
@@ -122,7 +122,7 @@ Define **what the system should do** — the main features and behaviors.
 
 ---
 
-### ⚡ Non-functional Requirements
+###  Non-functional Requirements
 
 Define **how the system should perform** — quality and performance standards.
 
@@ -138,7 +138,7 @@ Define **how the system should perform** — quality and performance standards.
 > Functional requirements describe features.  
 > Non-functional requirements ensure quality, speed, and reliability.
 
-## 🎯 Use Case Diagrams
+##  Use Case Diagrams
 
 ### What is a Use Case Diagram?
 
@@ -160,14 +160,14 @@ Use Case Diagrams are widely used during **Requirement Analysis** to:
 
 ---
 
-### 🧍 Actors in the Booking System
+###  Actors in the Booking System
 - **Guest/User** – Searches, views, and books properties.  
 - **Host/Property Owner** – Lists and manages property details.  
 - **Admin** – Oversees users, bookings, and overall platform operations.  
 
 ---
 
-### ⚙️ Main Use Cases
+###  Main Use Cases
 - Register / Log In  
 - Search for Properties  
 - View Property Details  
@@ -179,7 +179,7 @@ Use Case Diagrams are widely used during **Requirement Analysis** to:
 
 ---
 
-### 📊 Use Case Diagram
+###  Use Case Diagram
 
 Below is the Use Case Diagram representing the main interactions in the system.
 
@@ -193,7 +193,7 @@ Below is the Use Case Diagram representing the main interactions in the system.
 - Place the image file in your repository root or `assets/` folder.  
 - Ensure the file is named exactly `alx-booking-uc.png` so the link displays correctly in GitHub.
 
-## ✅ Acceptance Criteria
+##  Acceptance Criteria
 
 **Acceptance Criteria** define the specific conditions that a feature must meet to be considered complete and accepted by the client or product owner.  
 They ensure clarity between developers, testers, and stakeholders on what “done” means.
